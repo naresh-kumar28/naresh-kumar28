@@ -25,44 +25,12 @@
 
 </div>
 
----
-
-## `public class VinayKumarMahato {`
-
-```java
-public class VinayKumarMahato {
-
-    // Core Identity
-    String origin      = "Mashrakh, Saran, Bihar 🌾";
-    String journey     = "Bihar → Chennai → Bengaluru → Global 🚀";
-    int    experience  = 5; // years
-
-    // The Truth
-    String truth       = "I didn't have privilege — I had purpose.";
-    String reality     = "I didn't have IIT — I had intent.";
-    String identity    = "Self-taught. Self-built. Still teaching.";
-    String schedule    = "Founder by day. Educator by night. Developer — always.";
-
-    // The Mission
-    String method      = "Concept → Project → Resume → Job";
-    String approach    = "Not theory. Not isolated code. Real products. Real results.";
-
-    public static void main(String[] args) {
-        System.out.println("Code. Build. Deploy. 🔥");
-    }
-}
-```
-
-## `}`
-
----
-
 <div align="center">
 
 ## 🧭 Journey
 
 ```
-🌾 Mashrakh, Bihar  ──►  🏙️ Chennai  ──►  🚀 Bengaluru  ──►  🌍 Global
+🏡 Village Life ──► 🖥️ Cyber Café Work ──► 🎥 YouTube Creator ──► 💰 Monetized Channel ──► 🎓 BCA Student @ VVIT ──► 🚀 Python & Django Developer
 ```
 
 </div>
