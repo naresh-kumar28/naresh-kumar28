@@ -70,13 +70,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=github_dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=github_dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naresh-kumar28&theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naresh-kumar28&theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naresh-kumar28&theme=github_dark" width="32%" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=github_dark" width="98%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naresh-kumar28&theme=github_dark" width="98%" />
 </div>
 
 ---
@@ -84,7 +84,7 @@
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=github-compact&hide_border=true&bg_color=0d1117&color=f78166&line=79c0ff&point=56d364" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naresh-kumar28&theme=github-compact&hide_border=true&bg_color=0d1117&color=f78166&line=79c0ff&point=56d364" width="98%" />
 </div>
 
 ---
