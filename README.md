@@ -35,50 +35,6 @@
 
 </div>
 
----
-
-## 🏗️ What I Build
-
-<table>
-  <tr>
-    <td width="50%">
-
-### 🎯 Inoglle
-> Founder & CEO
-
-Building real-world tech products that solve actual problems — not just MVPs, but scalable, production-grade systems.
-
-  </td>
-    <td width="50%">
-
-### 🚀 Elevtern
-> Founder & CEO
-
-A platform bridging the gap between education and industry — turning learners into job-ready engineers.
-
-  </td>
-  </tr>
-  <tr>
-    <td>
-
-### ☕ ADV Indian Coder
-> YouTube Educator
-
-Teaching Java through real projects, not theory. Concepts become products. Products become careers.
-
-  </td>
-    <td>
-
-### 🤖 AI & ML
-> Innovator
-
-Expanding beyond Java into Data Science and ML to build intelligent, future-proof software.
-
-  </td>
-  </tr>
-</table>
-
----
 
 ## ⚙️ Tech Stack
 
