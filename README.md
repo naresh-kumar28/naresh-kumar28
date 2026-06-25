@@ -13,7 +13,7 @@
 
 ### `> Learn. Build. Improve. Repeat. 🔥`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=F78166&center=true&vCenter=true&random=false&width=600&lines=Founder+%40+Inoglle+%26+Elevtern;Java+Full+Stack+Developer;AI+%26+ML+Innovator;Self-taught.+Self-built.+Still+teaching.;Bihar+%E2%86%92+Chennai+%E2%86%92+Bengaluru+%E2%86%92+Global)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=F78166&center=true&vCenter=true&random=false&width=700&lines=Python+%26+Django+Developer;BCA+Student+%40+VVIT+Purnia;Building+Real-World+Web+Applications;Django+REST+Framework+Enthusiast;Cyber+Caf%C3%A9+Work+%E2%86%92+YouTube+Creator+%E2%86%92+Developer;Learning+Something+New+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
